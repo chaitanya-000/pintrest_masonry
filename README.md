@@ -1,4 +1,5 @@
-![README banner with text](https://github.com/chaitanya-000/pintrest_masonry/assets/103093624/0d943ce1-b1dc-438a-9d4e-d50e21befb1e)
+![README banner with text removed](https://github.com/chaitanya-000/pintrest_masonry/assets/103093624/4ee657ad-061c-460f-973e-94ccf1bfd1f0)
+
 
 Pintrest Masonry with HTML & CSS
 
