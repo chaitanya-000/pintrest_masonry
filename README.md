@@ -13,6 +13,8 @@ There are two files in the repo.
 
 Just copy-paste the code from the files and you are good to go! pretty simple
 
+
+The HTML tree looks like this ⬇️
 ![anatomy of the html and css](https://github.com/chaitanya-000/pintrest_masonry/assets/103093624/4eb88877-1575-4948-b203-9ca075afb966)
 
 
